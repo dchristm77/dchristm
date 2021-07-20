@@ -1,0 +1,21 @@
+[submodule "dchristm/start/surround"]
+	path = dchristm/start/surround
+	url = https://tpope.io/vim/surround.git
+[submodule "dchristm/start/vim-visual-multi"]
+	path = dchristm/start/vim-visual-multi
+	url = https://github.com/mg979/vim-visual-multi
+[submodule "dchristm/start/commentary"]
+	path = dchristm/start/commentary
+	url = https://tpope.io/vim/commentary.git
+[submodule "dchristm/start/argtextobj"]
+	path = dchristm/start/argtextobj
+	url = https://github.com/vim-scripts/argtextobj.vim.git
+[submodule "dchristm/start/vim-easymotion"]
+	path = dchristm/start/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion.git
+[submodule "dchristm/start/vim-textobj-entire"]
+	path = dchristm/start/vim-textobj-entire
+	url = https://github.com/kana/vim-textobj-entire.git
+[submodule "dchristm/start/ReplaceWithRegister"]
+	path = dchristm/start/ReplaceWithRegister
+	url = https://github.com/vim-scripts/ReplaceWithRegister.git
